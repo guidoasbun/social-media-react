@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://guidoasbun:Starfish1@social-media-react-udvj2.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://guidoasbun:Starfish1@social-media-react-udvj2.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
 }
