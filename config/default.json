@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://guidoasbun:Starfish1@social-media-react-udvj2.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken"
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "ec77a6eacc6883aa5f1f",
+  "githubSecret": "15817fdf975b79af81ebe3d91f237b930efe3997"
 }
